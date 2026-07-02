@@ -1,6 +1,6 @@
 Current state: pre-alpha or alpha.
 
-This is an Arduino sketch to control Tuya light switches in LAN through ESP8266.
+This is an Arduino sketch to control Tuya light switches in LAN through ESP8266 gateway.
 
 First things first. This sketch has been written with the help of AI.
 
