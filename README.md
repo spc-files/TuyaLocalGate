@@ -4,7 +4,7 @@ This is an Arduino sketch to control Tuya light switches in LAN through ESP8266 
 
 First things first. This sketch has been written with the help of AI.
 
-The primary purpose of (the rubber duck) this sketch is to control Tuya light switches (protocol version 3.3) through ESP8266 based on Arduino IDE. You will need three things (besides Tuya-compatible light switch):
+The primary purpose of (the rubber duck) this sketch is to control Tuya light switches (protocol version 3.3) through ESP8266 based on Arduino IDE. You will need four things (besides Tuya-compatible light switch):
 
 LAN IP-address of the gate;
 
@@ -13,6 +13,7 @@ LAN IP-address of the light switch;
 Device ID;
 
 Local Key;
+
 
 To obtain Device ID and Local Key you need to:
 
